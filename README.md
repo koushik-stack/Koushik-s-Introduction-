@@ -5,4 +5,4 @@ I currently work as a software engineer at @Anthropic, where I help build and im
 
 I'm passionate about building products at scale—I've launched major features on industry-leading services and apps with 25M+ installs, and automated systems across high-traffic platforms.
 
-Outside of work, I'm interested in following the developments of science. I publish article and write newsletters of my daily research in tech. 
+Outside of work, I'm interested in following the developments of science especially in Quantum Computing. I publish article and write newsletters of my daily research in tech. 
