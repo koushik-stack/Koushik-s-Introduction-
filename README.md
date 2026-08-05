@@ -1,6 +1,5 @@
+<img width="720" height="720" alt="pixelartpixel8bitaestheticnostalgia-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b93a41c4-e662-4845-9659-539456e20ec6" />
 
-
-https://github.com/user-attachments/assets/91da234c-110a-4933-b38c-9f1662412d89
 
 Hi there! 
 I'm Koushik, a remote software engineer and a Bachelor student at University of Sydney Studying Mechatronics Engineering.
