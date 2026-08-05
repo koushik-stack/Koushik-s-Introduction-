@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/91da234c-110a-4933-b38c-9f1662412d89
+
 Hi there! 
 I'm Koushik, a remote software engineer and a Bachelor student at University of Sydney Studying Mechatronics Engineering.
 
