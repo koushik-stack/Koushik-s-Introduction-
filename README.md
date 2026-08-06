@@ -1,4 +1,5 @@
-<img width="720" height="720" alt="pixelartpixel8bitaestheticnostalgia-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b93a41c4-e662-4845-9659-539456e20ec6" />
+<img width="216" height="216" alt="nini-anime" src="https://github.com/user-attachments/assets/d3eec2c2-2869-4ca9-8802-1c42d29b4b0e" />
+
 
 
 Hi there! 
